@@ -14,9 +14,9 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | 140810190074  | Fahrul Thariq F |
 
 ## Change log
-- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
-   -  Short changes 1
-   - Short changes 2
+- **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
+   -  berdiskusi dan merencanakan sprint backlog dan sprint 1
+   -  mencari referensi 15 puzzle
 
 - **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
    - Short changes 1
