@@ -1,12 +1,12 @@
 # Scrum Report (Sprint 1)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 16/11/2020 to 22/11/2020
 
 ## Team (Insert your name)
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190038  | Leonardo Septian D    |
+| 140810190066  | Johannes Gavin G N    |
+| 140810190074  | Fahrul Thariq F       |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -17,9 +17,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | Preparing the x | Jane Doe | DONE |
-| 1.2 | Make the x | John Doe | FAILED |
-
+| 1.1 | membuat class GameOfFifteen yang mengextends jPanel | Thariq | DONE |
+| 2.2 | membuat setter GameofFifteen | Gavin | DONE |
+| 3.3 | menambahkan addMouseListener | Leonardo |  DONE |
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
@@ -27,5 +27,6 @@ Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian t
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | Preparing the x | Jane Doe | 
-| 2.2 | Make the x | John Doe | 
+| 4.4 | memberi nilai pada setiap array tile | Gavin | 
+| 5.5 | memberi blankPos pada posisi akhir di array| Leonardo | 
+| 6.6 | membuat shuffle method | Thariq | 
