@@ -11,15 +11,15 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 3             | 3             |
 
 ## Sprint 1 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | membuat class GameOfFifteen yang mengextends jPanel | Thariq | DONE |
-| 2.2 | membuat setter GameofFifteen | Gavin | DONE |
-| 3.3 | menambahkan addMouseListener | Leonardo |  DONE |
+| 1.1 | membuat grid di class main | Thariq | DONE |
+| 2.2 | membuat fungsi game selesai atau tidak  | Gavin | DONE |
+| 3.3 | menambahkan fungsi inverse | Leonardo |  DONE |
 ## Retrospective 
 
 Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet

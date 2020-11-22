@@ -11,9 +11,9 @@
 ## Sprint Backlog Keseluruhan 
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | Implementasi PBO dasar | Thariq | 
-| 2.2 | membuat default (4 x 4) - 1 ubin/tile. | Gavin | 
-| 3.3 | membuat custom tile dengan n sebagai input  | Leonardo | 
+| 1.1 | membuat grid di class main | Thariq |
+| 2.2 | membuat fungsi game selesai atau tidak  | Gavin |
+| 3.3 | menambahkan fungsi inverse | Leonardo |
 | 4.4 | memberi nilai pada setiap array tile | Gavin | 
 | 5.5 | memberi blankPos pada posisi akhir di array| Leonardo | 
 | 6.6 | membuat shuffle method | Thariq | 
