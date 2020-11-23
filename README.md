@@ -18,9 +18,10 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    -  berdiskusi dan merencanakan sprint backlog dan sprint 1
    -  mencari referensi 15 puzzle
 
-- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 1](changelog/sprint-1.md) - (From 16/11/2020 to 22/11/2020)** 
+   - membuat grid di class main
+   - membuat fungsi inverse
+   - membuat fungsi game selesai atau tidak
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    - Short changes 1

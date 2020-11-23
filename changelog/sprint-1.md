@@ -1,7 +1,7 @@
 # Scrum Report (Sprint 1)
 | From 16/11/2020 to 22/11/2020
 
-## Team (Insert your name)
+## Team (Gorilla)
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810190038  | Leonardo Septian D    |
@@ -22,7 +22,7 @@
 | 3.3 | menambahkan fungsi inverse | Leonardo |  DONE |
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
 
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
