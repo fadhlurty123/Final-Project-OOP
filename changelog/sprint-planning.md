@@ -24,9 +24,9 @@
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 1.1 | membuat class GameOfFifteen yang mengextends jPanel | Thariq | 
-| 2.2 | membuat setter GameofFifteen | Gavin | 
-| 3.3 | menambahkan addMouseListener | Leonardo |  
+| 1.1 | membuat grid di class main | Thariq |
+| 2.2 | membuat fungsi game selesai atau tidak  | Gavin |
+| 3.3 | menambahkan fungsi inverse | Leonardo |
 
 ## Retrospective 
 
