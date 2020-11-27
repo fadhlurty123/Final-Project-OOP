@@ -20,6 +20,7 @@
 | 1.1 | membuat grid di class main | Thariq | DONE |
 | 1.2 | membuat fungsi game selesai atau tidak  | Gavin | DONE |
 | 1.3 | menambahkan fungsi inverse | Leonardo |  DONE |
+
 ## Retrospective 
 
 Perlu ditambahkan fungsi-fungsi lainnya yang lebih menunjang berjalannya aplikasi dan mulai men-design gui dari aplikasi.
@@ -31,5 +32,5 @@ Salah satu masalah saat ini adalah fungsi costum n yang belum terbayang. Kemungk
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 2.1 | memberi nilai pada setiap array tile | Gavin | 
-| 2.2 | memberi blankPos pada posisi akhir di array| Leonardo | 
+| 2.2 | memisahkan fungsi setter getter dalam class FifteenPuzzle | Leonardo | 
 | 2.3 | membuat shuffle method | Thariq | 

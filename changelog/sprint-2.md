@@ -1,12 +1,12 @@
 # Scrum Report (Sprint 2)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 22/11/2020 to 30/11/2020
 
-## Team (Insert your name)
+## Team Gorilla
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190038  | Leonardo Septian D    |
+| 140810190066  | Johannes Gavin G N    |
+| 140810190074  | Fahrul Thariq F       |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
@@ -17,12 +17,15 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | Preparing the x | Jane Doe | DONE |
-| 2.2 | Make the x | John Doe | FAILED |
+| 2.1 | Menambahkan fungsi Tile dalam folder model | Leonardo |  DONE |
+| 2.2 | | - |  PENDING |
+| 2.3 | | - |  PENDING |
+| 2.4 | | - |  PENDING |
+| 2.5 | | - |  PENDING |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Dalam sprint-1 fungsi setter getter masih digabung dalam main class FifteenPuzzle, dan saat ini telah dipisahkan dalam class baru yakni Tile. 
 
 ## Next Sprint Backlog (Sprint 3)
 | ID  | Title/Desc | Asignee | 
