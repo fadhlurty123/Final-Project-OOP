@@ -1,7 +1,7 @@
 # Sprint Planning 
 | 17/11/2020
 
-### Team (Insert your name)
+### Team Gorilla
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810190038  | Leonardo Septian D    |
@@ -25,9 +25,9 @@
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
 | 1.1 | membuat grid di class main | Thariq |
-| 2.2 | membuat fungsi game selesai atau tidak  | Gavin |
-| 3.3 | menambahkan fungsi inverse | Leonardo |
+| 1.2 | membuat fungsi game selesai atau tidak  | Gavin |
+| 1.3 | menambahkan fungsi inverse | Leonardo |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.
+Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.<br> Bayangan dasar dari aplikasi kemungkinan besar belum cukup dan harus perlu penambahan fungsi atau method.
