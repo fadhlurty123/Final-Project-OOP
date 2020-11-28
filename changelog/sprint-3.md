@@ -1,26 +1,34 @@
 # Scrum Report (Sprint 3)
-| From dd/mm/yyyy to dd/mm/yyyy
+| From 1/12/2020 to 8/12/2020
 
-## Team (Insert your name)
+## Team Gorilla
 | NPM           | Name        |
 | ------------- |-------------|
-| 140810xx00xx  | John Doe    |
-| 140810xx00xx  | Jane Doe    |
-| 140810xx00xx  | Lorem Ipsum |
+| 140810190038  | Leonardo Septian D    |
+| 140810190066  | Johannes Gavin G N    |
+| 140810190074  | Fahrul Thariq F       |
 
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| n             | n             |
+| 10             | 0            |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 | Preparing the x | Jane Doe | DONE |
-| 3.2 | Make the x | John Doe | FAILED |
+| 3.1 |Membuat class PuzzlePanel | Leonardo | PENDING |
+| 3.2 | Membuat fungsi untuk menghentikan pemain saat gim selesai | Thariq | PENDING |
+| 3.3 | Menambahkan method addListenerButton | Gavin | PENDING| 
+| 3.4 | Membuat method update saat gui digerakan | Leonardo | PENDING |
+| 3.5 | Membuat Panel gim saat gim dimulai | Leonardo|PENDING | 
+| 3.6 | Menambahkan method untuk mengubah ukuran puzzle | Thariq | PENDING |
+| 3.7 | Membuat tombol new gim | Gavin | PENDING|
+| 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | PENDING|
+| 3.9 | Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md| Thariq | PENDING |
+| 3.10 | Membuat fungsi mengubah warna saat tile digerakan ditempat yang salah atau benar | Gavin | PENDING |
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas. Lorem ipsum dolor sit amet
+Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan.
 

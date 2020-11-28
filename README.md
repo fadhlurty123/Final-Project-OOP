@@ -21,13 +21,18 @@ Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu 
    -  mencari referensi 15 puzzle
 
 - **[Sprint 1](changelog/sprint-1.md) - (From 16/11/2020 to 22/11/2020)** 
-   - membuat grid di class main
-   - membuat fungsi inverse
-   - membuat fungsi game selesai atau tidak
+   - Membuat grid di class main
+   - Membuat fungsi inverse
+   - Membuat fungsi game selesai atau tidak
 
 - **[Sprint 2](changelog/sprint-2.md) - ( From 22/11/2020 to 30/11/2020)** 
    - Menambahkan keterangan pada Running The App, App description, dan memperbaiki id pada sprint-1
-   - Short changes 2
+   - Menambahkan class Tile dan mengganti class Fungsi dengan class PuzzleModel
+   - Menambahkan setter, getter, dan method seperti dalam class Tile
+   - Menambahkan setter, getter, dan method seperti dalam class PuzzleModel
+   - Mengisi PuzzleModel dengan method-method yang digunakan dalam gim seperti shuffleBlock, dll.
+   - Mulai merancang design GUI gim.
+
    
 - **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
    - Short changes 1
@@ -48,6 +53,7 @@ Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu 
    - Jika terasa sulit pemain dapat memilih tombol reset untuk mengulang gim.
    - Jika tile belum terurut maka gim belum selesai
 * Selama gim 15-puzzle berjalan: disediakan tombol "Reset" ditujukan untuk pemain jika gim terasa sulit, tombol reset akan mengacak ulang urutan tile. 
+* Terdapat fitur perhitungan jumlah gerakan yang dilakukan dan berapa jumlah waktu yang telah dihabiskan dalam bermain gim.
 * Jika game selesai tile akan ter-reset sendiri, dan pemain dapat bermain kembali.
 
 ## Classes Used

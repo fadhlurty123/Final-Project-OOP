@@ -15,11 +15,13 @@
 | 2.2 | membuat fungsi game selesai atau tidak  | Gavin |
 | 3.3 | menambahkan fungsi inverse | Leonardo |
 | 4.4 | memberi nilai pada setiap array tile | Gavin | 
-| 5.5 | memberi blankPos pada posisi akhir di array| Leonardo | 
+| 5.5 | membuat tile kosong pada posisi akhir di gim| Leonardo | 
 | 6.6 | membuat shuffle method | Thariq | 
 | 7.7 | membuat method isSolvable | Leonardo | 
 | 8.8 | membuat newGame method | Gavin | 
-| 9.9 | Menambah fitur reset| Thariq | 
+| 9.9 | menambah fitur reset| Thariq | 
+| 10.10 | membuat method menghitung gerakan pemain |Leonardo | 
+| 11.11 | menambah fitur menghitung waktu yang telah dihabiskan | Thariq | 
 
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
@@ -30,4 +32,4 @@
 
 ## Retrospective 
 
-Sprint kemarin dianggap terlalu sedikit sehingga diperlukan adanya penyesuaian tugas.<br> Bayangan dasar dari aplikasi kemungkinan besar belum cukup dan harus perlu penambahan fungsi atau method.
+Bayangan dasar dari aplikasi kemungkinan besar belum cukup dan harus perlu penambahan fungsi atau method.
