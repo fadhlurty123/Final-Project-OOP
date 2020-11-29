@@ -17,8 +17,8 @@ Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu 
 
 ## Change log
 - **[Sprint Planning](changelog/sprint-planning.md) - (17/11/2020)** 
-   -  berdiskusi dan merencanakan sprint backlog dan sprint 1
-   -  mencari referensi 15 puzzle
+   -  Berdiskusi dan merencanakan sprint backlog dan sprint 1
+   -  Mencari referensi 15 puzzle
 
 - **[Sprint 1](changelog/sprint-1.md) - (From 16/11/2020 to 22/11/2020)** 
    - Membuat grid di class main

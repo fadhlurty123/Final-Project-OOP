@@ -17,15 +17,15 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 2.1 | membuat class Tile  | Gavin |  DONE |
-| 2.2 | membuat setter getter pada class tile dari Tile, Col, dan Row |  Leonardo| DONE  |
-| 2.3 |menambahkan fungsi setValue, isEmptyTile, dan isOnRightPosition pada class Tile | Thariq |  DONE  |
-| 2.4 |menganti class Fungsi dengan class PuzzleMode | Gavin |  DONE  |
-| 2.5 |mengisi class puzzleModel dengan deklarasi variabel, setter, dan getter | Thariq |  DONE  |
-| 2.6 |menambahkan method generateBlock, ShuffleBlock, dan isSolvable | Leonardo |  DONE  |
-| 2.7 | memindahkan fungsi isSolved dari class Fungsi ke class PuzzleModel | Gavin |  DONE  |
-| 2.8 |Menambahkan fungsi exchangeTile dan moveTile | Thariq |  DONE  |
-| 2.9 | menambahkan method isChangable dan isValidTile | Leonardo |  DONE  |
+| 2.1 | Membuat class Tile  | Gavin |  DONE |
+| 2.2 | Membuat setter getter pada class tile dari Tile, Col, dan Row |  Leonardo| DONE  |
+| 2.3 | Menambahkan fungsi setValue, isEmptyTile, dan isOnRightPosition pada class Tile | Thariq |  DONE  |
+| 2.4 | Menganti class Fungsi dengan class PuzzleMode | Gavin |  DONE  |
+| 2.5 | Mengisi class puzzleModel dengan deklarasi variabel, setter, dan getter | Thariq |  DONE  |
+| 2.6 | Menambahkan method generateBlock, ShuffleBlock, dan isSolvable | Leonardo |  DONE  |
+| 2.7 | Memindahkan fungsi isSolved dari class Fungsi ke class PuzzleModel | Gavin |  DONE  |
+| 2.8 | Menambahkan fungsi exchangeTile dan moveTile | Thariq |  DONE  |
+| 2.9 | Menambahkan method isChangable dan isValidTile | Leonardo |  DONE  |
 
 ## Retrospective 
 

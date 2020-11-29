@@ -17,9 +17,9 @@
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 1.1 | membuat dan mengatur grid frame di class main | Thariq | DONE |
-| 1.2 | membuat fungsi isSolved | Gavin | DONE |
-| 1.3 | membuat fungsi perhitungan inversi | Leonardo |  DONE |
+| 1.1 | Membuat dan mengatur grid frame di class main | Thariq | DONE |
+| 1.2 | Membuat fungsi isSolved | Gavin | DONE |
+| 1.3 | Membuat fungsi perhitungan inversi | Leonardo |  DONE |
 
 ## Retrospective 
 
@@ -31,12 +31,12 @@ Salah satu masalah saat ini adalah fungsi costum n yang masih belum terbayang. K
 ## Next Sprint Backlog (Sprint 2)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
-| 2.1 | membuat class Tile  | Gavin | 
-| 2.2 | membuat setter getter pada class tile dari Tile, Col, dan Row| Leonardo | 
-| 2.3 | menambahkan fungsi setValue, isEmptyTile, dan isOnRightPosition pada class Tile | Thariq | 
-| 2.4 | menganti class Fungsi dengan class PuzzleModel | Gavin | 
-| 2.5 | mengisi class puzzleModel dengan deklarasi variabel, setter, dan getter | Thariq | 
-| 2.6 | menambahkan method generateBlock, ShuffleBlock, dan isSolvable| Leonardo | 
-| 2.7 | memindahkan fungsi isSolved dari class Fungsi ke class PuzzleModel| Gavin | 
+| 2.1 | Membuat class Tile  | Gavin | 
+| 2.2 | Membuat setter getter pada class tile dari Tile, Col, dan Row| Leonardo | 
+| 2.3 | Menambahkan fungsi setValue, isEmptyTile, dan isOnRightPosition pada class Tile | Thariq | 
+| 2.4 | Menganti class Fungsi dengan class PuzzleModel | Gavin | 
+| 2.5 | Mengisi class puzzleModel dengan deklarasi variabel, setter, dan getter | Thariq | 
+| 2.6 | Menambahkan method generateBlock, ShuffleBlock, dan isSolvable| Leonardo | 
+| 2.7 | Memindahkan fungsi isSolved dari class Fungsi ke class PuzzleModel| Gavin | 
 | 2.8 | Menambahkan fungsi exchangeTile dan moveTile | Thariq | 
-| 2.9 | menambahkan method isChangable dan isValidTile| Leonardo | 
+| 2.9 | Menambahkan method isChangable dan isValidTile| Leonardo | 
