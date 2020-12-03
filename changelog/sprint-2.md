@@ -20,7 +20,7 @@
 | 2.1 | Membuat class Tile  | Gavin |  DONE |
 | 2.2 | Membuat setter getter pada class tile dari Tile, Col, dan Row |  Leonardo| DONE  |
 | 2.3 | Menambahkan fungsi setValue, isEmptyTile, dan isOnRightPosition pada class Tile | Thariq |  DONE  |
-| 2.4 | Menganti class Fungsi dengan class PuzzleMode | Gavin |  DONE  |
+| 2.4 | Menganti class Fungsi dengan class PuzzleModel | Gavin |  DONE  |
 | 2.5 | Mengisi class puzzleModel dengan deklarasi variabel, setter, dan getter | Thariq |  DONE  |
 | 2.6 | Menambahkan method generateBlock, ShuffleBlock, dan isSolvable | Leonardo |  DONE  |
 | 2.7 | Memindahkan fungsi isSolved dari class Fungsi ke class PuzzleModel | Gavin |  DONE  |

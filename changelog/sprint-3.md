@@ -11,17 +11,17 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 10             | 0            |
+| 10             | 5           |
 
 ## Sprint 3 Backlog
 
 | ID  | Title/Desc | Asignee | Status |
 | --- | ---------- | ------- | ------ |
-| 3.1 |Membuat class PuzzlePanel | Leonardo | PENDING |
-| 3.2 | Membuat fungsi untuk menghentikan pemain saat gim selesai | Thariq | PENDING |
-| 3.3 | Menambahkan method addListenerButton | Gavin | PENDING| 
-| 3.4 | Membuat method update saat gui digerakan | Leonardo | PENDING |
-| 3.5 | Membuat Panel gim saat gim dimulai | Leonardo|PENDING | 
+| 3.1 | Membuat class PuzzlePanel | Leonardo | DONE |
+| 3.2 | Membuat fungsi untuk menghentikan pemain saat gim selesai | Thariq | DONE |
+| 3.3 | Menambahkan method addListenerButton | Gavin | DONE | 
+| 3.4 | Membuat method update saat gui digerakan | Leonardo | DONE |
+| 3.5 | Membuat Panel gim saat gim dimulai | Leonardo| DONE | 
 | 3.6 | Menambahkan method untuk mengubah ukuran puzzle | Thariq | PENDING |
 | 3.7 | Membuat tombol new gim | Gavin | PENDING|
 | 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | PENDING|
