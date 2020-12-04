@@ -34,9 +34,15 @@ Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu 
    - Mulai merancang design GUI gim.
 
    
-- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   - Short changes 1
-   - Short changes 2
+- **[Sprint 3](changelog/sprint-3.md) - (From 1/12/2020 to 8/12/2020)** 
+   - Merancang GUI gim.
+   - Membuat class PuzzlePanel
+   - Menambahkan method addListenerButton
+   - Membuat fungsi untuk menghentikan pemain saat gim selesai
+   - Memindahkan main class ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean.
+   - Menambahkan method untuk mengubah ukuran puzzle
+   - Membuat tombol reset dan form actionPerfromed ketika gim dimenangkan
+   - Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md
 
 ## Running The App
 

@@ -11,7 +11,7 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 10            | 7           |
+| 10            | 8           |
 
 ## Sprint 3 Backlog
 
@@ -24,11 +24,11 @@
 | 3.5 | Membuat Panel gim saat gim dimulai | Leonardo| DONE | 
 | 3.6 | Menambahkan method untuk mengubah ukuran puzzle | Thariq | DONE |
 | 3.7 | Membuat tombol reset | Gavin | DONE |
-| 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | PENDING|
+| 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | DONE|
 | 3.9 | Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md| Thariq | PENDING |
 | 3.10 | Membuat fungsi mengubah warna saat tile digerakan ditempat yang salah atau benar | Gavin | PENDING |
 
 ## Retrospective 
 
-Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean.
+Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean.
 
