@@ -3,7 +3,7 @@ Anggota Kelompok    : - Leonardo Septian Dwigantoro - 140810190038
                       - Johannes Gavin              - 140810190066
                       - Fahrul Thariq Fadillah      - 140810190074
 Kelas               : B
-Tanggal             : Kamis, 2 Desember 2020 [UPDATE-0]
+Tanggal             : Rabu, 2 Desember 2020 [UPDATE-0]
 Deskripsi           : Class PuzzlePanel untuk menentukan fungsi-fungsi panel pada gim FifteenPuzzle
 */
 

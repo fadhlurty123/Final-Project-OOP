@@ -29,7 +29,7 @@
 | 3.4 | Membuat method update saat gui digerakan | Leonardo | 
 | 3.5 | Membuat Panel gim saat gim dimulai | Leonardo| 
 | 3.6 | Menambahkan method untuk mengubah ukuran puzzle | Thariq | 
-| 3.7 | Membuat tombol new gim | Gavin | 
+| 3.7 | Membuat tombol reset | Gavin | 
 | 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | 
 | 3.9 | Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md| Thariq | 
 | 3.10 | Membuat fungsi mengubah warna saat tile digerakan ditempat yang salah atau benar | Gavin | 
