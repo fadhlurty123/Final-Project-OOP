@@ -30,5 +30,5 @@
 
 ## Retrospective 
 
-Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean.
+Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean. UML dibuat dengan tipe class without signature karna keterbatasan waktu.
 

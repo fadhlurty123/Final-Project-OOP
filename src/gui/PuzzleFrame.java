@@ -269,11 +269,11 @@ public class PuzzleFrame extends javax.swing.JFrame implements ActionListener {
          */
         @Override
         public void actionPerformed(ActionEvent e) {
-                lblMove.setText("Jumlah gerakan: " + puzzlePanel.getMoveCount());
+                lblMove.setText("Jumlah Gerakan: " + puzzlePanel.getMoveCount());
                 if (puzzlePanel.getPuzzleModel().isSolved()) {
                         puzzlePanel.showCompletePuzzle();
                         isWin = true;
-                        int choice = JOptionPane.showConfirmDialog(null, "Kamu menang! kembali bermain?", "Selamat!",
+                        int choice = JOptionPane.showConfirmDialog(null, "Kamu menang! main lagi?", "Selamat!",
                                         JOptionPane.YES_NO_OPTION);
                         if (choice == JOptionPane.YES_OPTION) {
                                 initPanel();

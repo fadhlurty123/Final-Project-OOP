@@ -8,6 +8,8 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu ubin kosong, dan jika 4x4 ubin, puzzle tersebut berisi 15 tile terisi dan satu ubin kosong, dan seterusnya. Tujuan dari teka-teki ini adalah untuk menempatkan ubin secara berurutan dengan melakukan gerakan geser yang menggunakan ruang kosong.**
 
+![GUI](images/GUI.png) ![GUI2](images/GUI2.png)
+
 ## Credits
 | NPM           | Name        |
 | ------------- |-------------|
@@ -64,10 +66,15 @@ Jika ukurannya 3 × 3 ubin, maka puzzle tersebut disebut 8 tile terisi dan satu 
 
 ## Classes Used
 
-TO;DO
-
-UML image here
+![UML](images/UML.png)
 
 ## Notable Assumption and Design App Details
 
-TO;DO
+Fitur-fitur yang terdapat pada gim dapat dideskripsikan sebagai berikut:
+
+Button / Details     | Features   
+:---------         | :----- 
+Jumlah Gerakan     |  Menghitung jumlah gerakan saat tile dipindahkan
+Waktu Total        |  Menampilkan waktu yang dihabiskan saat bermain gim
+Pilih Ukuran Tile  |  Memilih ukuran tile pada gim
+Reset              |  Memulai ulang gim dengan mengacak tile
