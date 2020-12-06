@@ -11,7 +11,7 @@
 ## Sprint Overview
 | Planned (n)   | Completed (n) |
 | ------------- |-------------- |
-| 10            | 8           |
+| 10            | 9           |
 
 ## Sprint 3 Backlog
 
@@ -25,10 +25,10 @@
 | 3.6 | Menambahkan method untuk mengubah ukuran puzzle | Thariq | DONE |
 | 3.7 | Membuat tombol reset | Gavin | DONE |
 | 3.8 | Membuat form actionPerfromed ketika gim dimenangkan| Leonardo | DONE|
-| 3.9 | Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md| Thariq | PENDING |
-| 3.10 | Membuat fungsi mengubah warna saat tile digerakan ditempat yang salah atau benar | Gavin | PENDING |
+| 3.9 | Mengisi classes used, UML, dan Notable Assumption and Design App Details pada README.md| Thariq | DONE |
+| 3.10 | Membuat fungsi mengubah warna saat tile digerakan ditempat yang salah atau benar | Gavin | FAILED |
 
 ## Retrospective 
 
-Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean. UML dibuat dengan tipe class without signature karna keterbatasan waktu.
+Dengan memasuki sprint terakhir mungkin masih ada berberapa fitur atau method yang belum sempat dikembangkan. Main class dipindahkan ke class baru yakni PuzzleFrame dan class FifteenPuzzle dihapuskan untuk memudahkan pengkodean. UML dibuat dengan tipe class without signature karna keterbatasan waktu. Fungsi mengubah warna saat tile digerakan gagal dikembangkan.
 
